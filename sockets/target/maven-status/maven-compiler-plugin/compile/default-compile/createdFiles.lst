@@ -1,0 +1,5 @@
+org\sd\tcp\objecttransmission\Person.class
+org\sd\tcp\objecttransmission\Server.class
+org\sd\tcp\objecttransmission\ClientExecutor.class
+org\sd\tcp\objecttransmission\ServerExecutor.class
+org\sd\tcp\objecttransmission\Client.class
